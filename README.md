@@ -41,9 +41,7 @@ Achieved an accuracy of **95.62%** on the test set using logistic regression.
 
 ## 🛠️ How to Run
 
-1. **Clone the repository**:
-
-```bash
-git clone https://github.com/viswanathanand2005/Breast-Cancer-Class-Predictor.git
-cd Breast-Cancer-Class-Predictor
-```
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/viswanathanand2005/Breast-Cancer-Class-Predictor.git
+   cd Breast-Cancer-Class-Predictor
